@@ -26,4 +26,5 @@ PALFINGER (data architect) · HolidayCheck (senior data engineer, AWS data platf
 AWS Cloud Innovation Center (solutions architect) · Telefónica Germany (big data architect) ·
 ZEISS · SKIDATA · Salzburg Research · TU München
 
-[LinkedIn](https://www.linkedin.com/in/drstefanschneider/)
+[LinkedIn](https://www.linkedin.com/in/drstefanschneider/) ·
+[ORCID](https://orcid.org/0009-0006-9312-6965) (publications and patent)
